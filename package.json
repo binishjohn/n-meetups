@@ -1,0 +1,15 @@
+{
+  "name": "n-meetup-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/johnbinish/n-meetup-api.git",
+  "author": "Binish John <binish.heptas@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
